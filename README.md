@@ -11,7 +11,7 @@ Remove produtos do carrinho;
 Calcula o valor total do carrinho.
 
 
-Tecnologias utilizadas:
+# Tecnologias utilizadas:
 
 HTML;
 
